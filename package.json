@@ -1,18 +1,19 @@
 {
   "name": "hapi-brakes",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Plugin to simplify the circuit breaker system inside an Hapi.JS environement ",
   "main": "lib/index.js",
   "author": "Goomeo",
   "contributors": [
     "Yoann MALLEMANCHE <yoann.mallemanche@gmail.com>",
-    "Benjamin BESSE <benjamin.besse02@gmail.com>"
+    "Benjamin BESSE <benjamin.besse02@gmail.com>",
+    "Patryk KONIOR <patryk.konior@gmail.com>"
   ],
   "engines": {
     "node": ">4.2.0"
   },
   "dependencies": {
-    "brakes": "^2.5.1",
+    "brakes": "^2.6.0",
     "lodash": "^4.17.2"
   },
   "devDependencies": {},
